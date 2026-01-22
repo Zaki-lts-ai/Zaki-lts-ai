@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Zaki-lts-ai
 
-<!--
-**Zaki-lts-ai/Zaki-lts-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me:
+* 🌱 Currently learning **Python** and **Linux (Termux)**.
+* 🎯 Goal: Building AI-powered tools to support digital institutions in **Algeria**.
+* 🔐 Interested in: **Cybersecurity**, **FinTech**, and **Digitization**.
 
-Here are some ideas to get you started:
+### 🛠️ Tools I use:
+* `Python` `Termux` `Linux` `Git`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Learning Path:
+* [ ] Automating tasks with Python.
+* [ ] Understanding Zero-Trust Security.
+* [ ] Developing an AI CLI for Algerian technical advice.
+
+*"Learning step by step, from Algeria to the world."*
